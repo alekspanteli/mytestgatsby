@@ -7,6 +7,19 @@
     &:hover{
         color:#666;
     }
+    &:focus{
+        color:#666;
+    }
+}
+
+.active-nav-item{
+    color:#333;
+    &:focus{
+        color:#333;
+    }
+    &:hover{
+        color:#333;
+    }
 }
 
 .header{
